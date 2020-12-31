@@ -1,5 +1,5 @@
 ### Hey there, fellow <Coders/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<img src="{https://github.com/tanishk2298/tanishk2298/blob/main/assets/intro.gif}" width="100%">
+![demo gif](https://github.com/tanishk2298/tanishk2298/blob/main/assets/intro.gif)
 
 - 🌱 Currently working w/ MERN Stack ( Too mainstream right! )
 - 🥅 2021 Goals : HAve a good CP profile & Contribute to Open Source projects
