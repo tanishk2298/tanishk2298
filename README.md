@@ -23,8 +23,8 @@
   "others": ["redux", "rest api", "heroku", "netlify"]
 }
 ```
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishk2298&layout=compact)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=tanishk2298&show_icons=true&theme=dark&count_private=true&hide=prs)
 
 ### Favourite Stack
@@ -34,6 +34,7 @@
 <img align="left" alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br/>
+<br />
 
 ### Competitive Programming Profiles
 
@@ -48,7 +49,9 @@
 </a>
 <a href="https://codeforces.com/profile/tsrsharma_22">
   <img align="left" alt="Tanishk Sharma | Codeforces" width="40px" src="https://github.com/tanishk2298/tanishk2298/blob/main/assets/cf.png" />
-</a><br/>
+</a>
+<br/>
+<br/>
 
 ### Connect w/ Me
 
