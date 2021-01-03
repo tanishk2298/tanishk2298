@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
 ![demo gif](https://github.com/tanishk2298/tanishk2298/blob/main/assets/intro.gif)
 
 - 🌱 Currently working w/ MERN Stack ( Too mainstream right! )
